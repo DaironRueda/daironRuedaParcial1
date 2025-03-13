@@ -1,0 +1,90 @@
+.body{
+
+	background-color: aqua;
+}
+
+
+.divInicio{
+	width: 100%;
+	background-color: green;
+}
+
+.news-section{
+
+	background-color: yellow;
+}
+.etiquetas{
+
+	background-color: #F4990D;
+}
+
+.colorRGB{
+	color:rgb(229, 21, 178);
+}
+.final{
+	background-color: gray;
+}
+
+.footer {
+    background-color: #4e7057; /* Verde oscuro */
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Contenedor de redes sociales */
+.redes-sociales {
+    margin-top: 10px;
+}
+
+/* Estilos de los iconos */
+.redes-sociales a {
+    margin: 0 10px;
+    display: inline-block;
+}
+
+.redes-sociales img {
+    width: 60px; 
+    height: auto;
+    transition: transform 0.3s ease-in-out;
+}
+
+.redes-sociales img:hover {
+    transform: scale(1.2);
+}
+
+.container{
+	max-width: 1000px;
+    margin: auto;
+    background: green;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+ .images {
+            display: flex;
+            justify-content: space-between;
+            margin: 20px 0;
+        }
+
+        .images img {
+            width: 49%;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+
+        .text {
+            text-align: left;
+            margin-top: 50px;
+
+        }
+            
+
+ {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
